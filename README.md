@@ -4,7 +4,7 @@
 
 ### AI Engineer | Software Developer | Computer Vision Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=AI+Engineer;Computer+Vision+Developer;AWS+Cloud+Enthusiast;Building+SafeDrive+Rewards" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Software+Engineer;Computer+Vision+Developer;AWS+Cloud+Enthusiast;Web+Developer" />
 
 </div>
 
