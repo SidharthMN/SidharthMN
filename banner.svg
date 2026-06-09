@@ -66,18 +66,18 @@
   <!-- Stats row - 3 cards -->
   <!-- stat 1 -->
   <rect x="36" y="274" width="220" height="50" rx="7" fill="#110e1f" stroke="#1e1040" stroke-width="0.8"/>
-  <text class="mono stat-num" x="52" y="297">15+</text>
-  <text class="mono stat-lbl" x="52" y="313">github projects</text>
+  <text class="mono stat-num" x="52" y="297">CODE</text>
+  <text class="mono stat-lbl" x="52" y="313">Think</text>
 
   <!-- stat 2 -->
   <rect x="270" y="274" width="220" height="50" rx="7" fill="#110e1f" stroke="#1e1040" stroke-width="0.8"/>
-  <text class="mono stat-num" x="286" y="297">02</text>
-  <text class="mono stat-lbl" x="286" y="313">internships</text>
+  <text class="mono stat-num" x="286" y="297">CREATE</text>
+  <text class="mono stat-lbl" x="286" y="313">Build</text>
 
   <!-- stat 3 -->
   <rect x="504" y="274" width="220" height="50" rx="7" fill="#110e1f" stroke="#1e1040" stroke-width="0.8"/>
-  <text class="mono stat-num" x="520" y="297">90%</text>
-  <text class="mono stat-lbl" x="520" y="313">cv accuracy</text>
+  <text class="mono stat-num" x="520" y="297">REPEAT</text>
+  <text class="mono stat-lbl" x="520" y="313">Innovate</text>
 
   <!-- Tags row -->
   <!-- tag 1 active -->
@@ -90,24 +90,25 @@
 
   <!-- tag 3 active -->
   <rect x="264" y="338" width="90" height="22" rx="4" fill="#2d1f5e" stroke="#7c5fd4" stroke-width="0.8"/>
-  <text class="mono tag-text-active" x="309" y="353" text-anchor="middle">React Vite</text>
+  <text class="mono tag-text-active" x="309" y="353" text-anchor="middle">Web Dev</text>
 
   <!-- tag 4 -->
   <rect x="362" y="338" width="104" height="22" rx="4" fill="#1a1030" stroke="#3d2e6b" stroke-width="0.8"/>
-  <text class="mono tag-text" x="414" y="353" text-anchor="middle">Python · Flask</text>
+  <text class="mono tag-text-active" x="414" y="353" text-anchor="middle">Python · Flask</text>
 
   <!-- tag 5 -->
   <rect x="474" y="338" width="82" height="22" rx="4" fill="#1a1030" stroke="#3d2e6b" stroke-width="0.8"/>
-  <text class="mono tag-text" x="515" y="353" text-anchor="middle">DynamoDB</text>
+  <text class="mono tag-text-active" x="515" y="353" text-anchor="middle">DynamoDB</text>
 
   <!-- tag 6 -->
   <rect x="564" y="338" width="66" height="22" rx="4" fill="#1a1030" stroke="#3d2e6b" stroke-width="0.8"/>
-  <text class="mono tag-text" x="597" y="353" text-anchor="middle">Firebase</text>
+  <text class="mono tag-text-active" x="597" y="353" text-anchor="middle">Firebase</text>
 
   <!-- tag 7 -->
   <rect x="638" y="338" width="98" height="22" rx="4" fill="#1a1030" stroke="#3d2e6b" stroke-width="0.8"/>
-  <text class="mono tag-text" x="687" y="353" text-anchor="middle">Tailwind CSS</text>
+  <text class="mono tag-text-active" x="687" y="353" text-anchor="middle">Tailwind CSS</text>
 
+  
   <!-- Links row -->
   <rect x="36" y="372" width="82" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
   <text class="mono link-text" x="77" y="387" text-anchor="middle">[ portfolio ]</text>
@@ -123,6 +124,7 @@
 
   <rect x="368" y="372" width="62" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
   <text class="mono link-text" x="399" y="387" text-anchor="middle">[ email ]</text>
+  
 
   <!-- Footer -->
   <text class="mono footer-text" x="36" y="405">SIDXOID<tspan fill="#534AB7">®</tspan></text>
