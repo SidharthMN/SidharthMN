@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sidharthmn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharthmn)
 [![GitHub](https://img.shields.io/badge/GitHub-SidharthMN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidharthMN)
 [![Email](https://img.shields.io/badge/Email-sidharthnisha7777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthnisha7777@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-sid.soid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.soid/)
+[![Instagram](https://img.shields.io/badge/Instagram-sid.soid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.xoid/)
 
 </div>
 
@@ -93,7 +93,7 @@ Scalable Python Flask backend for automated **Malayalam audio dubbing** and subt
 
 ---
 
-### ☁️ [Xpenz](https://xpenz-fintech.netlify.app/) — AWS Cloud Expense Tracker
+### ☁️ [Xpenz](https://github.com/SidharthMN/xpenz-fintech) — AWS Cloud Expense Tracker
 > `React Vite` `Tailwind CSS` `AWS Lambda` `DynamoDB` `API Gateway` `Electron`
 
 Cloud-native fintech expense tracking app with a fully serverless backend. Interactive SaaS-style dashboard with charts, transaction tracking, and responsive UI. Deployable as both a **web app and desktop software** via Electron.
@@ -151,7 +151,7 @@ Cloud-native fintech expense tracking app with a fully serverless backend. Inter
 | 🌍 Portfolio | [sidharthmn.github.io/portfolio](https://sidharthmn.github.io/portfolio/) |
 | 💼 LinkedIn | [linkedin.com/in/sidharthmn](https://linkedin.com/in/sidharthmn) |
 | 🐙 GitHub | [github.com/SidharthMN](https://github.com/SidharthMN) |
-| 📸 Instagram | [@sid.soid](https://www.instagram.com/sid.soid/) |
+| 📸 Instagram | [@sid.soid](https://www.instagram.com/sid.xoid/) |
 | 📧 Email | sidharthnisha7777@gmail.com |
 | 📞 Phone | +91 81291 53915 |
 
