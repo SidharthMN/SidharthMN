@@ -1,17 +1,10 @@
 <div align="center">
+  <img src="banner.svg" width="800" alt="SIDXOID — Sidharth M N"/>
+</div>
 
-```
- _____ _____________   _______ ___________
-/  ___|_   _|  _  \ \ / /  _  |_   _|  _  \
-\ `--.  | | | | | |\ V /| | | | | | | | | |
- `--. \ | | | | | |/   \| | | | | | | | | |
-/\__/ /_| |_| |/ // /^\ \ \_/ /_| |_| |/ /
-\____/ \___/|___/ \/   \/\___/ \___/|___/
+<br/>
 
-        # SIDXOID — Sidharth M N
-        # AI Engineer · Computer Vision · Full Stack
-        # Based in Thiruvananthapuram, Kerala
-```
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&width=700&lines=AI+Engineer+%26+Software+Developer;Computer+Vision+%7C+YOLO+%7C+OpenCV;AWS+Serverless+%7C+Cloud+Native;React+%7C+Python+%7C+Full+Stack;Building+real-world+software+%E2%9C%A6" />
 
