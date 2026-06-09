@@ -1,17 +1,17 @@
+<div align="center">
+
 ```
- _____ _____________   _______ ___________ 
+ _____ _____________   _______ ___________
 /  ___|_   _|  _  \ \ / /  _  |_   _|  _  \
 \ `--.  | | | | | |\ V /| | | | | | | | | |
  `--. \ | | | | | |/   \| | | | | | | | | |
-/\__/ /_| |_| |/ // /^\ \ \_/ /_| |_| |/ / 
-\____/ \___/|___/ \/   \/\___/ \___/|___/   
+/\__/ /_| |_| |/ // /^\ \ \_/ /_| |_| |/ /
+\____/ \___/|___/ \/   \/\___/ \___/|___/
 
         # SIDXOID — Sidharth M N
         # AI Engineer · Computer Vision · Full Stack
         # Based in Thiruvananthapuram, Kerala
 ```
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&width=700&lines=AI+Engineer+%26+Software+Developer;Computer+Vision+%7C+YOLO+%7C+OpenCV;AWS+Serverless+%7C+Cloud+Native;React+%7C+Python+%7C+Full+Stack;Building+real-world+software+%E2%9C%A6" />
 
@@ -19,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sidharthmn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharthmn)
 [![GitHub](https://img.shields.io/badge/GitHub-SidharthMN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidharthMN)
 [![Email](https://img.shields.io/badge/Email-sidharthnisha7777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthnisha7777@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-sid.soid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.soid/)
 
 </div>
 
@@ -27,11 +28,12 @@
 ## ✦ About Me
 
 ```
-Current Status   →   Open to Work
-Education        →   B.Tech CSE · Mohandas College of Engineering & Technology
-Location         →   Thiruvananthapuram, Kerala, India
-Interests        →   AI · Computer Vision · Cloud · Full Stack Development
-Languages        →   English · Malayalam · Hindi · Tamil
+current_status   →   Open to Work
+education        →   B.Tech CSE · Mohandas College of Engineering & Technology
+location         →   Thiruvananthapuram, Kerala, India
+interests        →   AI · Computer Vision · Cloud · Full Stack Development
+languages        →   English · Malayalam · Hindi · Tamil
+projects         →   15+ on GitHub
 ```
 
 Undergraduate Computer Science Engineer building **real-world software** at the intersection of AI, computer vision, and scalable web systems. From driver safety platforms powered by YOLO to cloud-native fintech apps on AWS — I focus on solving meaningful problems with clarity and intent.
@@ -103,7 +105,7 @@ Scalable Python Flask backend for automated **Malayalam audio dubbing** and subt
 
 Cloud-native fintech expense tracking app with a fully serverless backend. Interactive SaaS-style dashboard with charts, transaction tracking, and responsive UI. Deployable as both a **web app and desktop software** via Electron.
 
-`100% Working · Deployable as Software and Web App` · `Fintech · Cloudware`
+`100% Working · Deployable as Web + Desktop` · `Fintech · Cloudware`
 
 ---
 
