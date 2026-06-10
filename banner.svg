@@ -107,23 +107,6 @@
   <!-- tag 7 -->
   <rect x="638" y="338" width="98" height="22" rx="4" fill="#1a1030" stroke="#3d2e6b" stroke-width="0.8"/>
   <text class="mono tag-text-active" x="687" y="353" text-anchor="middle">Tailwind CSS</text>
-
-  
-  <!-- Links row -->
-  <rect x="36" y="372" width="82" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
-  <text class="mono link-text" x="77" y="387" text-anchor="middle">[ portfolio ]</text>
-
-  <rect x="126" y="372" width="66" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
-  <text class="mono link-text" x="159" y="387" text-anchor="middle">[ github ]</text>
-
-  <rect x="200" y="372" width="72" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
-  <text class="mono link-text" x="236" y="387" text-anchor="middle">[ linkedin ]</text>
-
-  <rect x="280" y="372" width="80" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
-  <text class="mono link-text" x="320" y="387" text-anchor="middle">[ instagram ]</text>
-
-  <rect x="368" y="372" width="62" height="22" rx="4" fill="#110e1f" stroke="#2d1f5e" stroke-width="0.8"/>
-  <text class="mono link-text" x="399" y="387" text-anchor="middle">[ email ]</text>
   
 
   <!-- Footer -->
