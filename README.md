@@ -93,7 +93,7 @@ Scalable Python Flask backend for automated **Malayalam audio dubbing** and subt
 
 ---
 
-### ☁️ [Xpenz](https://github.com/SidharthMN/xpenz-fintech) — AWS Cloud Expense Tracker
+### ☁️ [Xpenz](https://safedriverewards.netlify.app/) — AWS Cloud Expense Tracker
 > `React Vite` `Tailwind CSS` `AWS Lambda` `DynamoDB` `API Gateway` `Electron`
 
 Cloud-native fintech expense tracking app with a fully serverless backend. Interactive SaaS-style dashboard with charts, transaction tracking, and responsive UI. Deployable as both a **web app and desktop software** via Electron.
@@ -102,7 +102,7 @@ Cloud-native fintech expense tracking app with a fully serverless backend. Inter
 
 ---
 
-### 🌐 [Personal Portfolio](https://sidharthmn.github.io/portfolio/)
+### 🌐 [Personal Portfolio](https://sidharthmn.netlify.app/)
 > Custom-built from scratch with a minimalist, editorial aesthetic. Responsive design with smooth animations and a unique retro-terminal identity.
 
 ---
