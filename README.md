@@ -8,10 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&width=700&lines=AI+Engineer+%26+Software+Developer;Computer+Vision+%7C+YOLO+%7C+OpenCV;AWS+Serverless+%7C+Cloud+Native;React+%7C+Python+%7C+Full+Stack;Building+real-world+software+%E2%9C%A6" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sidharthmn.github.io-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://sidharthmn.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sidharthmn.github.io-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://sidharthmn.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sidharthmn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharthmn)
 [![GitHub](https://img.shields.io/badge/GitHub-SidharthMN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidharthMN)
-[![Email](https://img.shields.io/badge/Email-sidharthnisha7777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthnisha7777@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sidharthnisha7777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthmn2002@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-sid.xoid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.xoid/)
 
 </div>
@@ -93,7 +93,7 @@ Scalable Python Flask backend for automated **Malayalam audio dubbing** and subt
 
 ---
 
-### ☁️ [Xpenz](https://safedriverewards.netlify.app/) — AWS Cloud Expense Tracker
+### ☁️ [Xpenz](https://xpenz-fintech.netlify.app/) — AWS Cloud Expense Tracker
 > `React Vite` `Tailwind CSS` `AWS Lambda` `DynamoDB` `API Gateway` `Electron`
 
 Cloud-native fintech expense tracking app with a fully serverless backend. Interactive SaaS-style dashboard with charts, transaction tracking, and responsive UI. Deployable as both a **web app and desktop software** via Electron.
@@ -148,11 +148,11 @@ Cloud-native fintech expense tracking app with a fully serverless backend. Inter
 
 | | |
 |---|---|
-| 🌍 Portfolio | [sidharthmn.github.io/portfolio](https://sidharthmn.github.io/portfolio/) |
+| 🌍 Portfolio | [sidharthmn.github.io/portfolio](https://sidharthmn.netlify.app/) |
 | 💼 LinkedIn | [linkedin.com/in/sidharthmn](https://linkedin.com/in/sidharthmn) |
 | 🐙 GitHub | [github.com/SidharthMN](https://github.com/SidharthMN) |
 | 📸 Instagram | [@sid.xoid](https://www.instagram.com/sid.xoid/) |
-| 📧 Email | sidharthnisha7777@gmail.com |
+| 📧 Email | sidharthmn2002@gmail.com |
 | 📞 Phone | +91 81291 53915 |
 
 </div>
