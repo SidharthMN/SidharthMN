@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sidharthmn.github.io-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://sidharthmn.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sidharthmn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharthmn)
 [![GitHub](https://img.shields.io/badge/GitHub-SidharthMN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidharthMN)
-[![Email](https://img.shields.io/badge/Email-sidharthnisha7777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthmn2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sidharthmn2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthmn2002@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-sid.xoid-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sid.xoid/)
 
 </div>
